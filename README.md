@@ -1,4 +1,4 @@
-# 🥞 Durian Exhange UIkit
+#Durian Exhange UIkit
 
 Durian Exchange UI kit is a set of React components and hooks used to build pages on Durian Exchange's apps. It also contains a theme file for dark and light mode.
 
